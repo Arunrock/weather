@@ -1,1 +1,1 @@
-https://temparature.azurewebsites.net/
+https://temparature.azurewebsites.net
